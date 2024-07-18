@@ -69,7 +69,7 @@ label {
   border-radius: 20px;
   text-align: center;
   background-color: rgba(223, 9, 212, 0.521);
-  color: #ffffff;
+  color: #ffff;
   border: 2px solid #fafafa;
   cursor: pointer;
 }
@@ -251,7 +251,7 @@ tr {
 }
 
 .fairy {
-     background-color: #ed99ed;
+  background-color: #ed99ed;
 }
 
 @media (max-width: 370px) {
@@ -269,9 +269,10 @@ tr {
     width: 95%;
   }
 
-  .type {   
+  .type {
     width: 55px;
-  }  
+  }
+  
 }
 
 @media (max-width: 570px) {
