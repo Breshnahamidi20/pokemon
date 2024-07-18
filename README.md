@@ -2,7 +2,7 @@
 
 ## Add functionality to check if an input is a palindrome, with input validation and dynamic result display.📝
 
-> This project is a web application built with HTML, CSS, and JavaScript . and when you enter tge id od a pokemon it will sreach that and show you it image wieght and other data about it.
+> This project is a web application built with HTML, CSS, and JavaScript . and when you enter tge id of a pokemon it will sreach that and show you it image weight and other data about it.
 
 ## Demo 📸
 [live Demo] ( )
