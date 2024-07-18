@@ -2,11 +2,11 @@
 
 ## Add functionality to check if an input is a palindrome, with input validation and dynamic result display.📝
 
-> This project is a web application built with HTML, CSS, and JavaScript . and when a customers want to buy some items with consent price it can calculate it and show they the reminding cash.
+> This project is a web application built with HTML, CSS, and JavaScript . and when you enter tge id od a pokemon it will sreach that and show you it image wieght and other data about it.
 
 ## Demo 📸
 [live Demo] ( )
-![Screenshot](2.png)
+![Screenshot](3.png)
 
 ## Technologies Used 🛠️
 
@@ -23,7 +23,7 @@ git clone https://github.com/Breshnahamidi20/pokemon.git
 
 ```bash
 2: Navigate to the Project Directory:
-cd cash-register
+cd pokemon
 ```
 
 ```bash
@@ -33,13 +33,13 @@ cd cash-register
 ## Usage 🎯
 
 ```bash
-To use the project, open index.html in your browser, ensure style.css and script.js are in the same directory, enter the amount of cash in the input field, click "Check", and view the remimding cash and other details .
+To use the project, open index.html in your browser, ensure style.css and script.js are in the same directory, enter the id of pokemon and click sreach see the data .
 ```
 
 ## Features ⭐
 
 - Real-time Input Validation: Alerts users if no input is provided.
-- Dynamic Result Display: Instantly show the reminding cash if you Enter enough money, providing immediate feedback.
+- Dynamic Result Display: Instantly show the data of id you enter, providing immediate feedback.
 - User-Friendly Interface: Clean and simple design for easy interaction.
 
 ## Author 👩‍💻
