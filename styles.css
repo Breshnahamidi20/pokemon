@@ -4,9 +4,9 @@
 
 body {
   height: 100vh;
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-image: url(55.jpg);
-  background-size:cover;
+  background-size: cover;
   background-position: center;
   line-height: 1.5;
 }
@@ -50,7 +50,7 @@ h1 {
 
 label {
   align-self: center;
-  color: #ffffff;
+  color: #ffff;
 }
 
 #search-input {
@@ -59,7 +59,7 @@ label {
   width: 200px;
   border: 2px solid #880188;
   border-radius: 10px;
-  background-color:rgba(223, 9, 212, 0.521);
+  background-color: rgba(223, 9, 212, 0.521);
   color: #fdfdfd;
 }
 
@@ -98,14 +98,14 @@ label {
   width: 90%;
   min-height: 325px;
   background-color: rgba(213, 28, 230, 0.877);
-  border: 2px solid #ffffff;
+  border: 2px solid #ffff;
   border-radius: 15px;
 }
 
 .top-container {
   margin-bottom: 10px;
   padding: 4px;
-  background-color:rgb(165, 10, 165);
+  background-color: rgb(165, 10, 165);
 }
 
 .name-and-id {
@@ -113,8 +113,8 @@ label {
   font-size: 1.2em;
   text-transform: capitalize;
   margin-bottom: 5px;
-  color: #ffffff;
-  text-shadow: 0 0 10px #ffffff, 0 0 20px rgb(245, 245, 245);
+  color: #ffff;
+  text-shadow: 0 0 10px #ffff, 0 0 20px rgb(245, 245, 245);
 }
 
 .size {
@@ -159,14 +159,14 @@ table {
   border-spacing: 0;
   width: 100%;
   font-size: 1rem;
-  color: #ffffff;
+  color: #ffff;
   background-color: rgb(165, 10, 165);
   border: 2px solid #f5f5f5;
 }
 
 th,
 td {
-  border: 1px solid #ffffff;
+  border: 1px solid #ffff;
   text-align: center;
   padding: 8px;
 }
@@ -249,14 +249,14 @@ tr {
 .steel {
   background-color: #abaabb;
 }
-    
+
 .fairy {
      background-color: #ed99ed;
 }
 
-@media  (max-width: 370px)  {
+@media (max-width: 370px) {
   h1 {
-    font-size: 1.5em;  
+    font-size: 1.5em;
   }
 
   .container {
@@ -274,9 +274,9 @@ tr {
   }  
 }
 
-@media  (max-width: 570px)  {
+@media (max-width: 570px) {
   h1 {
-    font-size: 1.5em;  
+    font-size: 1.5em;
   }
 
   .container {
