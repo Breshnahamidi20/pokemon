@@ -50,8 +50,8 @@ const getPokemon = async () => {
 
     // Set stats
     hp.textContent = data.stats[0].base_stat;
-    attack.textContent = data.stats[1].base_stat
-    defense.textContent = data.stats[2].base_stat
+    attack.textContent = data.stats[1].base_stat;
+    defense.textContent = data.stats[2].base_stat;
 
     specialAttack.textContent = data.stats[3].base_stat;
     specialDefense.textContent = data.stats[4].base_stat;
@@ -67,12 +67,6 @@ const getPokemon = async () => {
     alert('Pokémon not found');
   }
 };
-
-
-
-
-
-
 searchForm.addEventListener('submit', (e) => {
   e.preventDefault();
   getPokemon();
